@@ -65,7 +65,8 @@ cd industrial-copper-modeling
 
 ### **2. Install Dependencies**
 ```bash
-pip install -r requirements
+
+### **pip install -r requirements**
 
 industrial-copper-modeling/
 │-- data/                 # Dataset files
