@@ -66,3 +66,12 @@ cd industrial-copper-modeling
 ### **2. Install Dependencies**
 ```bash
 pip install -r requirements
+
+industrial-copper-modeling/
+│-- data/                 # Dataset files
+│-- models/               # Saved ML models
+│-- notebooks/            # Jupyter Notebooks for EDA & Model Training
+│-- src/                  # Source code for preprocessing & modeling
+│-- app.py                # Streamlit app for deployment
+│-- requirements.txt      # Required dependencies
+│-- README.md             # Project documentation
